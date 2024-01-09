@@ -39,38 +39,29 @@
     {
       "id": 5,
       "name": "John",
-      "phone": "2745554289",
+      "phone": "2705554289",
       "courses": [
         "Ruby",
         "Selenium"
       ]
     },
-    {
+     {
+      "id": 6,
+      "name": "Sia",
+      "phone": "5554289234",
       "courses": [
-        "C",
-        "R"
-      ],
-      "phone": "9845554289",
-      "name": "Lin",
-      "id": 7
+        "Java",
+        "Selenium"
+      ]
     },
     {
+      "id": 7,
+      "name": "Lohn",
+      "phone": "2745854289",
       "courses": [
-        "C",
-        "R"
-      ],
-      "phone": "9845554289",
-      "name": "Lin",
-      "id": 8
-    },
-    {
-      "courses": [
-        "C",
-        "R"
-      ],
-      "phone": "9845554289",
-      "name": "Lin",
-      "id": 9
+        "Ruby",
+        "Selenium"
+      ]
     }
   ]
 }
