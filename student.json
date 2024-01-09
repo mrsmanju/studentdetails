@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John",
+      "phone": "2345554289",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Joy",
+      "phone": "2345354289",
+      "courses": [
+        "Java",
+        "Ruby"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Samy",
+      "phone": "3455554289",
+      "courses": [
+        "Python",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mia",
+      "phone": "5554289234",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "John",
+      "phone": "2745554289",
+      "courses": [
+        "Ruby",
+        "Selenium"
+      ]
+    },
+    {
+      "courses": [
+        "C",
+        "R"
+      ],
+      "phone": "9845554289",
+      "name": "Lin",
+      "id": 7
+    },
+    {
+      "courses": [
+        "C",
+        "R"
+      ],
+      "phone": "9845554289",
+      "name": "Lin",
+      "id": 8
+    },
+    {
+      "courses": [
+        "C",
+        "R"
+      ],
+      "phone": "9845554289",
+      "name": "Lin",
+      "id": 9
+    }
+  ]
+}
