@@ -63,5 +63,13 @@
         "Selenium"
       ]
     }
+    {
+      "id":8,
+      "name": "Lily",
+      "phone": "3455154289",
+      "courses": [
+        "Python",
+        "Selenium"
+      ]
   ]
 }
