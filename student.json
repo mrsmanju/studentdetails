@@ -71,5 +71,21 @@
         "Python",
         "Selenium"
       ]
-  
+  {
+      "id": 9,
+      "name": "Adi",
+      "phone": "2343354289",
+      "courses": [
+        "Java",
+        "Ruby"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sun",
+      "phone": "3455553489",
+      "courses": [
+        "Python",
+        "Selenium"
+      ]
 }
